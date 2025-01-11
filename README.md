@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💬 This account currently is used for uni purposes, and a project portofolio.
+💬 This account currently is used for uni purposes, and a project portofolio.
 
 
 <!--
