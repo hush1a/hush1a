@@ -1,5 +1,6 @@
 ## Hi there 👋
-This account currently is used for uni purposes, and a project dump.
+- 💬 This account currently is used for uni purposes, and a project portofolio.
+
 
 <!--
 **bayuugm/bayuugm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
