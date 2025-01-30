@@ -1,8 +1,13 @@
   <h1 align="center">Hello! 👋 </h1>
-<h3 align="center">💬 This account currently is used for uni purposes, and a project portofolio.
+
+<h3 align="center">❗ This account currently is used for uni purposes, and a project portofolio. ❗
+</h3>
+  
+<h3 align="center"> I'm currently an Undergraduate in Gadjah Mada University studying Computer Science. I am very passionate about IT and is currently learning Cybersecurity. 
 </h3>
 
 
+        
 <!--
 **bayuugm/bayuugm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
