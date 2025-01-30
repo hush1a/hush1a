@@ -1,5 +1,6 @@
-## Hi there 👋
-💬 This account currently is used for uni purposes, and a project portofolio.
+  <h1 align="center">Hello! 👋 </h1>
+<h3 align="center">💬 This account currently is used for uni purposes, and a project portofolio.
+</h3>
 
 
 <!--
