@@ -1,4 +1,4 @@
-  <h1 align="center">Hello! 👋 </h1>
+  <h2 align="center">Hello! 👋 </h2>
 
 <h3 align="center">❗ This account currently is used for uni purposes, and a project portofolio. ❗
 </h3>
