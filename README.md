@@ -1,8 +1,4 @@
-  <h2 align="center">Hello there! 👋 </h2>
 
-<h5 align="center">❗ This account currently is used for uni purposes, and a project portofolio. ❗
-</h5>
-        
 <!--
 **bayuugm/bayuugm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! 👋
+
+### 🚀 About Me
+- 🌱 I'm an undergraduate Computer Science student at Universitas Gadjah Mada, passionate about **Cybersecurity** and **Software Engineering**. 
+- 🔐 I play CTFs occasionally, learning Cybersecurity and Back-End Development.
+- 📚 My other interests lie in Cloud, Security Engineering / Analysis
+- 🔭 Currently studying for certifications and looking for experience in competitions. 
+
