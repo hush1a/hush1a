@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 - 🌱 I'm a Computer Science student at Universitas Gadjah Mada, passionate about **Cybersecurity** and **Software Engineering**. 
-- 🔐 I play CTFs occasionally, learning Cybersecurity and Back-End Development.
+- 🔐 I play CTFs occasionally, and i am focusing on learning Cybersecurity and Back-End Development.
 - 📚 My other interests lie in Cloud, Security Engineering / Analysis
 - 🔭 Currently studying for certifications and looking for experience in competitions. 
 
