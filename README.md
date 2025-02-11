@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! 👋
+## Hi there!, Im Bayu. 👋
 
 ### 🚀 About Me
 - 🌱 I'm a Computer Science student at Universitas Gadjah Mada, passionate about **Cybersecurity** and **Software Engineering**. 
 - 🔐 I play CTFs occasionally, and i am focusing on learning Cybersecurity and Back-End Development.
-- 📚 My other interests lie in Cloud, DevOps, Security Analysis
-- 🔭 Currently studying for certifications and looking for experience in competitions. 
+- 📚 My other interests lie in Cloud, DevOps, Security Analysis. I plan to hone these skills in the future.
+- 🔭 Currently studying for certifications and looking for experience in competitions and organizations. 
 
