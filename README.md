@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there!, Im Bayu. 👋
+## Hi!
 
 ### 🚀 About Me
-- 🌱 I'm a Computer Science student at Universitas Gadjah Mada, passionate about **Cybersecurity** and **Software Engineering**. 
+- 🌱 I'm a Computer Science student at Universitas Gadjah Mada.
 - 🔐 I play CTFs occasionally, and i am focusing on learning Cybersecurity and Back-End Development.
 - 🔭 Currently studying for certifications and looking for experience in competitions and organizations.
 - 😄 Check out my [Credly profile](https://www.credly.com/users/bayu-putra.8b1338b5)
