@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi!
 
-### 🚀 About Me
 - 🌱 I'm a Computer Science student at Universitas Gadjah Mada.
 - 🔐 I play CTFs occasionally, and i am focusing on learning Cybersecurity and Fullstack Development.
 - 🔭 Currently studying for certifications and looking for experience in competitions and organizations.
